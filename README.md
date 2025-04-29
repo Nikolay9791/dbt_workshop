@@ -370,3 +370,4 @@ INSERT INTO stripe.payment (ID, ORDERID, PAYMENTMETHOD, STATUS, AMOUNT, CREATED)
 (64, 52, 'bank_transfer', 'success', 1500, '2018-02-25');
 
 ```
+hi
